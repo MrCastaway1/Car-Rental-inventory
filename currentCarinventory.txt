@@ -1,0 +1,9 @@
+1001,2024,Acura,Integra,25
+1002,2024,Alfa Romeo,Giulia,35
+1003,2024,Cadillac,CT4,50
+1004,2023,Chevrolet,Bolt,20
+1005,2024,Dodge,Hornet,30
+1006,2024,Honda,CR-V,20
+1007,2024,Hyundai,Santa Fe,35
+1008,2024,Infiniti,Q50,40
+1009,2024,Kia,Carnival,30
